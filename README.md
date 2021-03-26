@@ -10,9 +10,9 @@ Horiseon would like to make their webpage more compatiable with search engines a
 3. Make the website more visually appealing by adding a name to head and using heart icon from below as favicon.
 4. Optimize code on css style sheet by combining repeating coding.
 
-![Screenshot 1](.assets/images/screenshot1.png)
-![Screenshot 2](.assets/images/screenshot2.png)
-![Screenshot 3](.assets/images/screenshot3.png)
+![Screenshot 1](assets/images/screenshot1.png)
+![Screenshot 2](assets/images/screenshot2.png)
+![Screenshot 3](assets/images/screenshot3.png)
 
 
 ## Links:
