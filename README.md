@@ -17,7 +17,9 @@ Horiseon would like to make their webpage more compatiable with search engines a
 
 ## Links:
 www.horiseon.com
-https://github.com/PratikPatel-Code/uconnbootcamp-homework1
+
+
+[github]https://github.com/PratikPatel-Code/uconnbootcamp-homework1
 
 
 
