@@ -33,18 +33,11 @@ Horiseon is a company that already has a webpage built.  They would like to refa
 
 # 
 ## Links:
-<<<<<<< HEAD
 [Email](pratikpatel_85@yahoo.com)
 
 [Github Profile](https://github.com/PratikPatel-Code/)
 
 [Homework 1 - Horisean](https://pratikpatel-code.github.io/uconnbootcamp-homework1/)
-=======
-www.horiseon.com
-
-
-[github]https://github.com/PratikPatel-Code/uconnbootcamp-homework1
->>>>>>> 0107cd01b7d2408b1eefa990de2f06aab17e5996
 
 
 
